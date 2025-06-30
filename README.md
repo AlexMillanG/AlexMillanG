@@ -1,41 +1,54 @@
-# ¡Hola! 👋 Soy [Tu Nombre o Usuario]
+# ¡Hola! 👋 Soy **Alex**  
 
-Soy desarrollador de software apasionado por crear soluciones útiles y eficientes. Me especializo en desarrollo **full-stack** con tecnologías como **Java / Spring Boot** / NodeJs**, y **MySQL**. Actualmente estudio **Ingeniería en Desarrollo y Gestión de Software** y cuento con experiencia en proyectos académicos y personales, incluyendo sistemas de inventario, plataformas de reportes y automatización de tareas.
+### 💻 **Desarrollador Backend | Estudiante de Ingeniería de Software**  
+Apasionado por crear soluciones eficientes y escalables. Especializado en **Java / Spring Boot / Node.js** y bases de datos relacionales como **MySQL**. Tengo experiencia en proyectos académicos y personales, incluyendo sistemas de inventario, plataformas de reportes y automatización con Puppeteer.  
 
----
+---  
 
-## 🚀 Tecnologías que utilizo
+## 🚀 **Tecnologías**  
 
-- Backend: Java, Spring Boot, Node.js, Express
-- Frontend: React, React Native, TailwindCSS
-- Base de datos: MySQL, PostgreSQL
-- Herramientas: Git, GitHub, Postman, Docker, VSCode, IntelliJ
+### **Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
 
----
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-## 📊 Mis estadísticas en GitHub
+### **Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=contribs,prs)
+### **Herramientas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+---  
 
----
+## 📊 **Estadísticas de GitHub**  
 
-## 📌 Algunos proyectos destacados
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AlexMillanG&show_icons=true&theme=highcontrast&hide=contribs,prs&hide_border=true" width="100%"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMillanG&layout=compact&theme=highcontrast&hide_border=true" width="100%"/></td>
+    </tr>
+  </table>
+</div>
 
-- 🎯 **Sistema de Inventario Web y Móvil** – Control de productos, reportes PDF, y roles de usuario.
-<!-- 📄 **Generador de reportes en PDF con membrete personalizado** – Usando React y @react-pdf/renderer. ->
-- 🧾 **Automatización de facturas con código QR** – App móvil con escáner + automatización con Selenium.
+---  
 
----
+## 🛠 **Stack Tecnológico**  
+![Tecnologías](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,react,tailwind,git,postman,vscode&perline=5)  
 
-## 📫 Contacto
+---  
 
-- ✉️ Correo: [alexmillanguillen@gmail.com]
+## 📫 **Contacto**  
 
----
+📧 **Correo:** [alexmillanguillen@gmail.com](mailto:alexmillanguillen@gmail.com)  
 
-> *"La programación no es solo escribir código, es resolver problemas con creatividad y lógica."*
+---  
 
----
-
+> *"La programación no es solo escribir código, es resolver problemas con creatividad y lógica."*  
