@@ -51,17 +51,6 @@ I am a **Software Engineering Student** and **Backend Developer** with a deep-se
 
 ---
 
-### 📊 Stats & Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlexMillanG&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMillanG&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" height="175"/>
-
-</div>
-
----
 
 ### 📫 Let's Build Something
 
